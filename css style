@@ -1,0 +1,12 @@
+.menubar{
+	margin-top: 0px;
+	background: #F44336;
+}
+.menubar ul{
+	text-align: center;
+	padding: 0;
+	list-style-type: none;
+	margin: 0;
+	border: solid 1px red;
+
+}
